@@ -2,14 +2,14 @@
   "inventory": [
     {
       "MaterialTitle": {
-        "Name": "",
+        "Name": "MyLab Application - V2.1",
         "PN": "",
         "MF": ""
       },
       "MID": "MID00251",
       "MD": "",
       "MT": "",
-      "MQNT": 50,
+      "MQNT": 1,
       "MQATG": "",
       "ML": "",
       "MDS": "",
