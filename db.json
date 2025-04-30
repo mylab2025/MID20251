@@ -12,10 +12,16 @@
       "MQNT": 100,
       "MQATG": "",
       "ML": "",
+      "MCost": 0,
       "MDS": "",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
       "MR": "",
       "MaterialImages": [
-        "https://media-hosting.imagekit.io/6fba5b4af20d4029/MyLab.png?Expires=1837859939&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=IIk9J3nf2X7IOGI2RK3QgtRUgLr~K9livAXKCaCPl-ptQsADrFQ0xG3pdO3RRT76TKi~jFBkR6AJbOs-KG4qyXhi5AGmI0aRUcbnsB8OKTpUHwyw~pYsegeABhsxGdSIeQ3eb8~1V9CkHLFvoi2D5r8AK86IfonS8LgXogSp61NuEExZksgLmYRaj0k8Z3I0e7euFH4aB6YpQy~Q3o9pXGjipbWf~ZAyi8SGfeMHHr2Er9gyhNeArKToC8IGew66F4yyp4lztB3OZEYEm3HwA0l7-O8yd2zkfTvlkag1LupUtWig2YM4cOk1Ba2x2yJuqfT1i3zrRAeWx9U1kSuDAQ__"
+        "https://media-hosting.imagekit.io/6fba5b4af20d4029/MyLab.png?Expires=1837859939\u0026Key-Pair-Id=K2ZIVPTIP2VGHC\u0026Signature=IIk9J3nf2X7IOGI2RK3QgtRUgLr~K9livAXKCaCPl-ptQsADrFQ0xG3pdO3RRT76TKi~jFBkR6AJbOs-KG4qyXhi5AGmI0aRUcbnsB8OKTpUHwyw~pYsegeABhsxGdSIeQ3eb8~1V9CkHLFvoi2D5r8AK86IfonS8LgXogSp61NuEExZksgLmYRaj0k8Z3I0e7euFH4aB6YpQy~Q3o9pXGjipbWf~ZAyi8SGfeMHHr2Er9gyhNeArKToC8IGew66F4yyp4lztB3OZEYEm3HwA0l7-O8yd2zkfTvlkag1LupUtWig2YM4cOk1Ba2x2yJuqfT1i3zrRAeWx9U1kSuDAQ__"
       ]
     }
   ]
